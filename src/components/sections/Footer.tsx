@@ -27,10 +27,10 @@ export function Footer() {
       { href: "/servicos#launch", label: "Digital Launch" },
     ],
     social: [
-      { href: "https://instagram.com", label: "Instagram" },
-      { href: "https://linkedin.com", label: "LinkedIn" },
-      { href: "https://youtube.com", label: "YouTube" },
-      { href: "https://behance.net", label: "Behance" },
+      { href: "https://instagram.com/agenciadestra", label: "Instagram" },
+      { href: "https://facebook.com/agenciadestra", label: "Facebook" },
+      { href: "https://youtube.com/@agenciadestra", label: "YouTube" },
+      { href: "https://www.behance.net/AgenciaDestra", label: "Behance" },
     ],
   };
 

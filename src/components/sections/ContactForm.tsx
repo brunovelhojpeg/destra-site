@@ -80,8 +80,8 @@ export function ContactForm() {
           <p className="text-eyebrow mb-6">{t("direct")}</p>
           <ul className="space-y-1 border-t border-ink-border">
             <ChannelRow label={t("channels.email")} value="ola@agenciadestra.com.br" />
-            <ChannelRow label={t("channels.whatsapp")} value="+55 11 9 9999-9999" />
-            <ChannelRow label={t("channels.studio")} value="Av. Paulista, 1000 · SP" />
+            <ChannelRow label={t("channels.whatsapp")} value="+55 51 99652-6797" />
+            <ChannelRow label={t("channels.studio")} value="Av. Sen. Alberto Pasqualini, 1161 · 3º · Lajeado-RS" />
           </ul>
           <motion.div
             initial={{ opacity: 0, y: 20 }}
@@ -94,7 +94,7 @@ export function ContactForm() {
               Respondemos em até <span className="text-orange">24h úteis</span>.
             </p>
             <p className="mt-3 text-sm text-muted">
-              Seg a sex · 9h–19h · São Paulo
+              Seg a sex · 9h–19h · Lajeado-RS
             </p>
           </motion.div>
         </aside>

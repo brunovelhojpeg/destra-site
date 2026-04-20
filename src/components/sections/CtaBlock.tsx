@@ -60,7 +60,7 @@ export function CtaBlock() {
               {t("button")}
             </MagneticButton>
             <MagneticButton
-              href="https://wa.me/5511999999999"
+              href="https://wa.me/5551996526797"
               variant="outline"
               external
               cursorLabel="wa"
