@@ -105,8 +105,10 @@ export function CaseView({ caseData }: { caseData: Case }) {
               {locale === "pt" ? "Contexto" : "Overview"}
             </span>
           </div>
-          <Reveal as="p" className="text-balance text-xl leading-relaxed text-bone md:col-span-8 md:text-2xl">
-            {copy.overview}
+          <Reveal className="md:col-span-8">
+            <p className="text-balance text-xl leading-relaxed text-bone md:text-2xl">
+              {copy.overview}
+            </p>
           </Reveal>
         </div>
       </section>
@@ -140,19 +142,15 @@ export function CaseView({ caseData }: { caseData: Case }) {
               </p>
             </div>
             <div className="md:col-span-7 md:col-start-6">
-              <Reveal
-                as="h2"
-                className="font-display text-[clamp(2rem,4vw,3.75rem)] leading-[1.02] tracking-tight text-bone"
-                delay={0.05}
-              >
-                {block.label}
+              <Reveal delay={0.05}>
+                <h2 className="font-display text-[clamp(2rem,4vw,3.75rem)] leading-[1.02] tracking-tight text-bone">
+                  {block.label}
+                </h2>
               </Reveal>
-              <Reveal
-                as="p"
-                className="mt-6 text-balance text-lg leading-relaxed text-bone/80"
-                delay={0.15}
-              >
-                {block.body}
+              <Reveal delay={0.15}>
+                <p className="mt-6 text-balance text-lg leading-relaxed text-bone/80">
+                  {block.body}
+                </p>
               </Reveal>
 
               {/* Visual placeholder */}
