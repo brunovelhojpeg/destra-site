@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "title": "Destra — Agência Criativa. Estratégia que vira legado.",
+    "description": "Muito mais que uma agência. Criamos marcas, experiências e performance que constroem legado. Branding, mídia, design e growth com método."
+  },
+  "nav": {
+    "work": "Trabalhos",
+    "services": "Serviços",
+    "about": "Método",
+    "contact": "Contato",
+    "cta": "Destrave sua marca"
+  },
+  "hero": {
+    "eyebrow": "Agência criativa · Desde 2015",
+    "titleA": "O que sua marca",
+    "titleB": "deixará",
+    "titleC": "de legado?",
+    "lead": "Somos a Destra. Um estúdio de criatividade, estratégia e performance que transforma marcas em presenças inesquecíveis.",
+    "scroll": "Role para explorar",
+    "marquee": [
+      "Branding",
+      "Performance",
+      "Conteúdo",
+      "Lançamentos",
+      "Audiovisual",
+      "Packaging",
+      "Endomarketing",
+      "Destra 360"
+    ]
+  },
+  "manifesto": {
+    "eyebrow": "Manifesto 01",
+    "line1": "Criatividade",
+    "line2": "é ferramenta,",
+    "line3": "não firula.",
+    "body": "A gente não vende campanha bonita. Vende decisão. Cada pixel, cada palavra e cada segundo de vídeo existem para mover um número, abrir um mercado, conquistar um público. Bonito sem resultado é decoração. A Destra entrega com consistência porque tem método."
+  },
+  "work": {
+    "eyebrow": "Trabalhos selecionados",
+    "title": "Marcas que decidiram crescer com a gente.",
+    "viewAll": "Ver tudo",
+    "cases": [
+      {
+        "client": "Verdana Foods",
+        "title": "Reposicionamento + lançamento nacional",
+        "category": "Branding · Packaging · Mídia",
+        "year": "2025"
+      },
+      {
+        "client": "NovaSaúde",
+        "title": "Ecossistema digital e performance",
+        "category": "Inbound · Growth · Ads",
+        "year": "2025"
+      },
+      {
+        "client": "Kira Energia",
+        "title": "Nova identidade corporativa",
+        "category": "Branding · Sistema visual",
+        "year": "2024"
+      },
+      {
+        "client": "Estúdio Forma",
+        "title": "Lançamento de linha premium",
+        "category": "Design · Audiovisual · Social",
+        "year": "2024"
+      }
+    ]
+  },
+  "services": {
+    "eyebrow": "O que a Destra faz",
+    "title": "Oito frentes. Um só propósito: mover o ponteiro.",
+    "cta": "Falar sobre um projeto",
+    "items": [
+      {
+        "id": "01",
+        "name": "Branding",
+        "desc": "Construção e gestão de marcas com posicionamento claro, identidade consistente e narrativa de longo prazo."
+      },
+      {
+        "id": "02",
+        "name": "Meta & Google Ads",
+        "desc": "Mídia paga orientada a receita. Estratégia, criação e otimização contínua com foco em CAC e ROAS."
+      },
+      {
+        "id": "03",
+        "name": "Design de Embalagem",
+        "desc": "Packaging que vende na gôndola e vira objeto de desejo. Do conceito à arte-final pronta para indústria."
+      },
+      {
+        "id": "04",
+        "name": "Inbound Marketing",
+        "desc": "Conteúdo estratégico, SEO e automação. Atraímos, nutrimos e convertemos com previsibilidade."
+      },
+      {
+        "id": "05",
+        "name": "Vídeo & Fotografia",
+        "desc": "Direção criativa, produção e pós. Filmes de marca, conteúdo social e ensaios de produto com alma."
+      },
+      {
+        "id": "06",
+        "name": "Lançamento Digital",
+        "desc": "Estrutura completa de lançamento: da estratégia ao funil, da criação à sala de guerra. A gente fica junto."
+      },
+      {
+        "id": "07",
+        "name": "Endomarketing",
+        "desc": "Ações internas que viram cultura. Quando o time compra a história, o cliente também compra."
+      },
+      {
+        "id": "08",
+        "name": "Destra 360",
+        "desc": "Parceria completa e integrada. Um time dedicado cuidando de marca, performance e conteúdo lado a lado."
+      }
+    ]
+  },
+  "method": {
+    "eyebrow": "O método Destra",
+    "title": "Consistência não é sorte. É processo.",
+    "pillars": [
+      {
+        "n": "01",
+        "name": "Imersão",
+        "desc": "A gente escuta o negócio antes de falar de marca. Diagnóstico profundo, dados na mesa, zero achismo."
+      },
+      {
+        "n": "02",
+        "name": "Estratégia",
+        "desc": "Posicionamento, público, arquitetura de marca e plano de comunicação. Da macro à tática."
+      },
+      {
+        "n": "03",
+        "name": "Criação",
+        "desc": "Design, copy e audiovisual desenhados para performar em cada canal. Estética com propósito."
+      },
+      {
+        "n": "04",
+        "name": "Execução",
+        "desc": "Ritmo de agência que opera como time interno. Entregas previsíveis, comunicação clara."
+      },
+      {
+        "n": "05",
+        "name": "Evolução",
+        "desc": "Leitura constante de dados, iteração e refinamento. Cada ciclo entrega mais que o anterior."
+      }
+    ]
+  },
+  "clients": {
+    "eyebrow": "Quem confia",
+    "title": "Marcas em movimento."
+  },
+  "testimonials": {
+    "eyebrow": "O que dizem",
+    "title": "Parceria que vira resultado.",
+    "items": [
+      {
+        "quote": "A Destra entrou como agência e virou parte do nosso time. Em 18 meses, triplicamos o faturamento do e-commerce e reposicionamos a marca para o público premium.",
+        "name": "Mariana Lopes",
+        "role": "CEO, Verdana Foods"
+      },
+      {
+        "quote": "Entregam criatividade de agência grande com o cuidado de boutique. O método é real, os números também.",
+        "name": "Rafael Siqueira",
+        "role": "Head de Marketing, NovaSaúde"
+      },
+      {
+        "quote": "Raro achar quem pensa branding e performance na mesma mesa. A Destra pensa. E executa.",
+        "name": "Camila Duarte",
+        "role": "Fundadora, Estúdio Forma"
+      }
+    ]
+  },
+  "cta": {
+    "eyebrow": "Próximo passo",
+    "title1": "Vamos",
+    "title2": "destravar",
+    "title3": "sua marca?",
+    "lead": "Conta rápido onde a sua marca está e onde quer chegar. A gente responde em até 24h úteis com um caminho possível.",
+    "button": "Começar conversa",
+    "whatsapp": "Falar no WhatsApp",
+    "email": "ola@agenciadestra.com.br"
+  },
+  "footer": {
+    "tagline": "Estratégia criativa que vira legado.",
+    "rights": "Todos os direitos reservados.",
+    "columns": {
+      "explore": "Explorar",
+      "services": "Serviços",
+      "contact": "Contato",
+      "social": "Social"
+    },
+    "address": "Av. Paulista, 1000 · São Paulo · Brasil",
+    "locale": "PT-BR"
+  },
+  "common": {
+    "switchLang": "EN",
+    "switchLangLabel": "Trocar para Inglês"
+  },
+  "pages": {
+    "work": {
+      "eyebrow": "Trabalhos · Índice completo",
+      "title": "Cases que viraram referência.",
+      "intro": "Uma seleção dos projetos em que unimos branding, estratégia e performance para marcas que decidiram crescer com método."
+    },
+    "services": {
+      "eyebrow": "Serviços · O que fazemos",
+      "title": "Oito frentes. Um time. Um método.",
+      "intro": "Da construção da marca ao último real investido em mídia, a Destra atua nas duas pontas: reputação e resultado."
+    },
+    "method": {
+      "eyebrow": "Método · Como operamos",
+      "title": "Criatividade com processo é previsível.",
+      "intro": "Cinco pilares que se repetem em cada projeto, independente do tamanho. É por isso que marcas ficam, em média, 3 anos com a gente."
+    },
+    "contact": {
+      "eyebrow": "Contato · Próximo passo",
+      "title": "Vamos conversar.",
+      "intro": "Conta o contexto, os desafios e o horizonte. Em até 24h úteis respondemos com um caminho possível.",
+      "form": {
+        "name": "Nome",
+        "email": "E-mail",
+        "company": "Empresa",
+        "budget": "Investimento previsto",
+        "message": "Sobre o projeto",
+        "submit": "Enviar briefing",
+        "placeholder": {
+          "name": "Seu nome",
+          "email": "voce@empresa.com",
+          "company": "Nome da empresa",
+          "budget": "R$ 30k / R$ 80k / R$ 150k+",
+          "message": "Conta um pouco o que você precisa"
+        }
+      },
+      "direct": "Prefere escrever direto?",
+      "channels": {
+        "email": "E-mail",
+        "whatsapp": "WhatsApp",
+        "studio": "Estúdio"
+      }
+    }
+  }
+}

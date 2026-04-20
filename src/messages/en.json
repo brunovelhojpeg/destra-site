@@ -1,0 +1,241 @@
+{
+  "meta": {
+    "title": "Destra — Creative Agency. Strategy that becomes legacy.",
+    "description": "Much more than an agency. We craft brands, experiences and performance that build legacy. Branding, media, design and growth with method."
+  },
+  "nav": {
+    "work": "Work",
+    "services": "Services",
+    "about": "Method",
+    "contact": "Contact",
+    "cta": "Unlock your brand"
+  },
+  "hero": {
+    "eyebrow": "Creative agency · Since 2015",
+    "titleA": "What will",
+    "titleB": "your brand",
+    "titleC": "leave behind?",
+    "lead": "We are Destra. A studio of creativity, strategy and performance that turns brands into unforgettable presences.",
+    "scroll": "Scroll to explore",
+    "marquee": [
+      "Branding",
+      "Performance",
+      "Content",
+      "Launches",
+      "Film",
+      "Packaging",
+      "Internal comms",
+      "Destra 360"
+    ]
+  },
+  "manifesto": {
+    "eyebrow": "Manifesto 01",
+    "line1": "Creativity",
+    "line2": "is a tool,",
+    "line3": "not a flourish.",
+    "body": "We don't sell pretty campaigns. We sell decisions. Every pixel, every word and every frame of video exists to move a metric, open a market, win an audience. Beauty without results is decoration. Destra delivers with consistency because we have a method."
+  },
+  "work": {
+    "eyebrow": "Selected work",
+    "title": "Brands that chose to grow with us.",
+    "viewAll": "See all",
+    "cases": [
+      {
+        "client": "Verdana Foods",
+        "title": "Repositioning + national launch",
+        "category": "Branding · Packaging · Media",
+        "year": "2025"
+      },
+      {
+        "client": "NovaSaúde",
+        "title": "Digital ecosystem and performance",
+        "category": "Inbound · Growth · Ads",
+        "year": "2025"
+      },
+      {
+        "client": "Kira Energia",
+        "title": "New corporate identity",
+        "category": "Branding · Visual system",
+        "year": "2024"
+      },
+      {
+        "client": "Estúdio Forma",
+        "title": "Premium line launch",
+        "category": "Design · Film · Social",
+        "year": "2024"
+      }
+    ]
+  },
+  "services": {
+    "eyebrow": "What Destra does",
+    "title": "Eight fronts. One purpose: move the needle.",
+    "cta": "Talk about a project",
+    "items": [
+      {
+        "id": "01",
+        "name": "Branding",
+        "desc": "Building and managing brands with clear positioning, consistent identity and long-term narrative."
+      },
+      {
+        "id": "02",
+        "name": "Meta & Google Ads",
+        "desc": "Revenue-driven paid media. Strategy, creative and continuous optimization focused on CAC and ROAS."
+      },
+      {
+        "id": "03",
+        "name": "Packaging Design",
+        "desc": "Packaging that sells on the shelf and becomes an object of desire. From concept to production-ready artwork."
+      },
+      {
+        "id": "04",
+        "name": "Inbound Marketing",
+        "desc": "Strategic content, SEO and automation. We attract, nurture and convert — predictably."
+      },
+      {
+        "id": "05",
+        "name": "Video & Photography",
+        "desc": "Creative direction, production and post. Brand films, social content and product shots with soul."
+      },
+      {
+        "id": "06",
+        "name": "Digital Launches",
+        "desc": "Full launch structure: strategy to funnel, creative to war-room. We stay close to the finish line."
+      },
+      {
+        "id": "07",
+        "name": "Internal Comms",
+        "desc": "Internal actions that turn into culture. When the team buys the story, the customer buys it too."
+      },
+      {
+        "id": "08",
+        "name": "Destra 360",
+        "desc": "Full, integrated partnership. A dedicated team handling brand, performance and content side by side."
+      }
+    ]
+  },
+  "method": {
+    "eyebrow": "The Destra method",
+    "title": "Consistency isn't luck. It's process.",
+    "pillars": [
+      {
+        "n": "01",
+        "name": "Immersion",
+        "desc": "We listen to the business before talking about the brand. Deep diagnosis, data on the table, zero guessing."
+      },
+      {
+        "n": "02",
+        "name": "Strategy",
+        "desc": "Positioning, audience, brand architecture and communication plan. From macro to tactics."
+      },
+      {
+        "n": "03",
+        "name": "Creative",
+        "desc": "Design, copy and film designed to perform on each channel. Aesthetics with purpose."
+      },
+      {
+        "n": "04",
+        "name": "Execution",
+        "desc": "Agency pace that runs like an in-house team. Predictable delivery, clear communication."
+      },
+      {
+        "n": "05",
+        "name": "Evolution",
+        "desc": "Constant reading of data, iteration and refinement. Each cycle ships more than the last."
+      }
+    ]
+  },
+  "clients": {
+    "eyebrow": "Trusted by",
+    "title": "Brands in motion."
+  },
+  "testimonials": {
+    "eyebrow": "What they say",
+    "title": "Partnership that turns into results.",
+    "items": [
+      {
+        "quote": "Destra joined us as an agency and became part of our team. In 18 months, we tripled our e-commerce revenue and repositioned the brand for premium audiences.",
+        "name": "Mariana Lopes",
+        "role": "CEO, Verdana Foods"
+      },
+      {
+        "quote": "They deliver big-agency creative with boutique-level care. The method is real, the numbers too.",
+        "name": "Rafael Siqueira",
+        "role": "Head of Marketing, NovaSaúde"
+      },
+      {
+        "quote": "Rare to find people thinking branding and performance at the same table. Destra thinks. And executes.",
+        "name": "Camila Duarte",
+        "role": "Founder, Estúdio Forma"
+      }
+    ]
+  },
+  "cta": {
+    "eyebrow": "Next step",
+    "title1": "Shall we",
+    "title2": "unlock",
+    "title3": "your brand?",
+    "lead": "Tell us quickly where your brand is and where you want it to go. We reply within 24 business hours with a possible path.",
+    "button": "Start the conversation",
+    "whatsapp": "Chat on WhatsApp",
+    "email": "hello@agenciadestra.com.br"
+  },
+  "footer": {
+    "tagline": "Creative strategy that becomes legacy.",
+    "rights": "All rights reserved.",
+    "columns": {
+      "explore": "Explore",
+      "services": "Services",
+      "contact": "Contact",
+      "social": "Social"
+    },
+    "address": "Av. Paulista, 1000 · São Paulo · Brazil",
+    "locale": "EN"
+  },
+  "common": {
+    "switchLang": "PT",
+    "switchLangLabel": "Switch to Portuguese"
+  },
+  "pages": {
+    "work": {
+      "eyebrow": "Work · Full index",
+      "title": "Cases that became references.",
+      "intro": "A selection of projects where we combined branding, strategy and performance for brands that chose to grow with method."
+    },
+    "services": {
+      "eyebrow": "Services · What we do",
+      "title": "Eight fronts. One team. One method.",
+      "intro": "From building the brand to the last dollar spent on media, Destra works on both ends: reputation and results."
+    },
+    "method": {
+      "eyebrow": "Method · How we operate",
+      "title": "Creativity with process is predictable.",
+      "intro": "Five pillars that repeat in every project, regardless of size. That's why brands stay, on average, 3 years with us."
+    },
+    "contact": {
+      "eyebrow": "Contact · Next step",
+      "title": "Let's talk.",
+      "intro": "Share the context, challenges and horizon. Within 24 business hours we'll come back with a possible path.",
+      "form": {
+        "name": "Name",
+        "email": "Email",
+        "company": "Company",
+        "budget": "Budget",
+        "message": "About the project",
+        "submit": "Send briefing",
+        "placeholder": {
+          "name": "Your name",
+          "email": "you@company.com",
+          "company": "Company name",
+          "budget": "$5k / $15k / $30k+",
+          "message": "Tell us a bit about what you need"
+        }
+      },
+      "direct": "Prefer to write directly?",
+      "channels": {
+        "email": "Email",
+        "whatsapp": "WhatsApp",
+        "studio": "Studio"
+      }
+    }
+  }
+}
