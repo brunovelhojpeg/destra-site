@@ -79,7 +79,7 @@ export function CtaBlock() {
           >
             {t("email")}
           </a>
-          <span>São Paulo · Brasil</span>
+          <span>Lajeado · RS · Brasil</span>
         </div>
       </div>
     </section>
