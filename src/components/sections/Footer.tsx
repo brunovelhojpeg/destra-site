@@ -110,7 +110,7 @@ export function Footer() {
             © {year} Destra — {t("footer.rights")}
           </span>
           <div className="flex items-center gap-6">
-            <span>São Paulo · Brasil</span>
+            <span>Lajeado · RS · Brasil</span>
             <Link
               href={pathname}
               locale={otherLocale}
